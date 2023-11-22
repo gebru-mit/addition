@@ -5,6 +5,7 @@ function calculator(){
     let diff = x-y
     let prod = x*y
     let div =x/y 
+    console.log("addition  ...");
     console.log("calculator began ...");
     console.log("sum of: "+ x + " + "+ y +" = "+sum);
     console.log("difference of: "+ x + " - "+ y +" = "+diff);
